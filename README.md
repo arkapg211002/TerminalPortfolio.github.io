@@ -1,3 +1,8 @@
+# TERMINAL-PORTFOLIO
+![terminal-portfolio](https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.terminal2.screenshot.svg)
+
+# Below is the details and link to the repo for customising a web terminal
+
 # [💻 LiveTerm - build terminal styled websites in minutes!](https://liveterm.vercel.app)
 
 Highly customizable, easy-to-use, and minimal terminal styled website template, powered by Next.js.
